@@ -9,3 +9,7 @@ supertools
 CDP_x23
 - Servo program    
 servoSystem201
+
+# Dev
+- IDE: Delphi6/7
+- DB: MS SQL 2000
